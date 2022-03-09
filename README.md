@@ -13,12 +13,24 @@
 
 ### Task
 
-> Session memory calculator via [servlet](https://github.com/IvanHayel/TeachMeSkills_HW_Lesson_22/blob/master/src/main/java/by/teachmeskills/web/CalculatorServlet.java).
+> Session memory calculator via [servlet](https://github.com/IvanHayel/TeachMeSkills_HW_Lesson_22/blob/master/src/main/java/by/teachmeskills/calculator/web/CalculationServlet.java)
+> (+ authentication).
 
 ---
 
 ### How it works?
 
-![first](https://github.com/IvanHayel/TeachMeSkills_HW_Lesson_22/blob/master/screenshots/first.png)
+#### Trying to get access without authentication.
+![try-get-access-without-authentication](https://github.com/IvanHayel/TeachMeSkills_HW_Lesson_22/blob/master/screenshots/try-get-access-without-login.png)
 
-![second](https://github.com/IvanHayel/TeachMeSkills_HW_Lesson_22/blob/master/screenshots/second.png)
+#### Authentication simulation.
+![auth-simulation](https://github.com/IvanHayel/TeachMeSkills_HW_Lesson_22/blob/master/screenshots/login-simulation.png)
+
+#### Operation with both values.
+![both](https://github.com/IvanHayel/TeachMeSkills_HW_Lesson_22/blob/master/screenshots/operation-with-secondary-value.png)
+
+#### Operation with single value.
+![single](https://github.com/IvanHayel/TeachMeSkills_HW_Lesson_22/blob/master/screenshots/operation-without-secondary-value.png)
+
+#### Session operations history.
+![history](https://github.com/IvanHayel/TeachMeSkills_HW_Lesson_22/blob/master/screenshots/session-operations-history.png)
