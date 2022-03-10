@@ -1,4 +1,4 @@
-package by.teachmeskills.calculator.web;
+package by.teachmeskills.calculator.web.servlet;
 
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;

@@ -1,4 +1,4 @@
-package by.teachmeskills.calculator.filter;
+package by.teachmeskills.calculator.web.filter;
 
 import jakarta.servlet.*;
 import jakarta.servlet.annotation.WebFilter;

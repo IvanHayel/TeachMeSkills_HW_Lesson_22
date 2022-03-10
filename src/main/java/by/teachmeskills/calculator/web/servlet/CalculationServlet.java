@@ -1,7 +1,7 @@
-package by.teachmeskills.calculator.web;
+package by.teachmeskills.calculator.web.servlet;
 
-import by.teachmeskills.calculator.model.operation.Operation;
-import by.teachmeskills.calculator.model.operation.OperationStorage;
+import by.teachmeskills.calculator.entity.Operation;
+import by.teachmeskills.calculator.storage.OperationStorage;
 import by.teachmeskills.calculator.service.CalculatorService;
 import by.teachmeskills.calculator.service.RealNumberCalculatorService;
 import jakarta.servlet.annotation.WebServlet;

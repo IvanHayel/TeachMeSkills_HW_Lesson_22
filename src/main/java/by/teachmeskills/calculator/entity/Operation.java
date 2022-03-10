@@ -1,4 +1,4 @@
-package by.teachmeskills.calculator.model.operation;
+package by.teachmeskills.calculator.entity;
 
 import lombok.NonNull;
 import lombok.Value;

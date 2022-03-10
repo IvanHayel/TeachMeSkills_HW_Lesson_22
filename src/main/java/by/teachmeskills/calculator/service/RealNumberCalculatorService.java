@@ -1,7 +1,7 @@
 package by.teachmeskills.calculator.service;
 
-import by.teachmeskills.calculator.model.operation.Operation;
-import by.teachmeskills.calculator.model.operation.OperationStorage;
+import by.teachmeskills.calculator.entity.Operation;
+import by.teachmeskills.calculator.storage.OperationStorage;
 import lombok.NonNull;
 import lombok.Value;
 

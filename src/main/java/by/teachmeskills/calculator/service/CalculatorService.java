@@ -1,6 +1,6 @@
 package by.teachmeskills.calculator.service;
 
-import by.teachmeskills.calculator.model.operation.Operation;
+import by.teachmeskills.calculator.entity.Operation;
 
 public interface CalculatorService<T extends Number> {
     Operation<T> evaluate(String operand, String primaryValue, String secondaryValue);
